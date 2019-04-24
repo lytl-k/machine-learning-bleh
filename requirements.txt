@@ -1,0 +1,11 @@
+# pip install --user -r requirements.txt
+
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+pandas
+sympy
+nose
+sklearn
